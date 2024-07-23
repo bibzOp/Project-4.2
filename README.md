@@ -55,16 +55,13 @@ D;JGT	//IF A=0 EXIT AS THE WHOLE SCREEN IS BLACK
 @RESTART
 0;JMP
 
+
+![image](https://github.com/user-attachments/assets/6027f777-421d-48f7-b740-dfd721ddac85)
+
+
 ![image](https://github.com/user-attachments/assets/af73b740-3370-4cf3-a917-2ea2c5c0ff93)
-
-
-![image](https://github.com/user-attachments/assets/a0ba9273-977a-4b76-9f17-2b3ab28c20ab)
-
-
-![image](https://github.com/user-attachments/assets/e8293d9f-63c7-413d-aaf7-84bc9f47b967)
 
 
 ![image](https://github.com/user-attachments/assets/b6e5bf76-5d60-4e6b-a49b-de8b8059fa6c)
 
 
-![image](https://github.com/user-attachments/assets/6027f777-421d-48f7-b740-dfd721ddac85)
